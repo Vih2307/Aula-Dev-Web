@@ -1,0 +1,32 @@
+body {
+  font-family: system-ui;
+  margin: 40px;
+  max-width: 640px;
+}
+
+.card {
+  border: 1 solid #ddd;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 6px 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  cursor: pointer;
+}
+
+.ok {
+  color: #2bd02f;
+  font-weight: 700;
+}
+
+.erro {
+  color: red;
+}
